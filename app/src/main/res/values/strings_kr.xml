@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="question_text">콘스탄티노플은 터키의 가장 큰 도시이다.</string>
-    <string name="true_button">True</string>
-    <string name="false_button">false</string>
+    <string name="question_ocean">태평양은 대서양보다 더 크다.</string>
+    <string name="question_mideast">수에즈 운하는 홍해와 인도양을 연결한다.</string>
+    <string name="question_africa">나일강은 이집트에서 시작한다.</string>
+    <string name="question_america">아마존강은 아메리카 대륙에서 가장 긴 강이다.</string>
+    <string name="question_asia">바이칼은 호수다.</string>
 
 </resources>
